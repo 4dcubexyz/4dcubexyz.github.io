@@ -1,0 +1,12 @@
+title: Tesseract Blog
+author:
+  name: spv
+  email: spv@spv.sh
+
+description: >
+  A blog for a new, 3D, open-source physics sandbox.
+
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
