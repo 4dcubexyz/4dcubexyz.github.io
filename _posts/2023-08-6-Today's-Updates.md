@@ -10,6 +10,6 @@ In reality, when you jump, you keep going in the same direction, as no forces (b
 By contrast, when playing Tesseract, I found it was best to allow changing direction mid air (by looking in a different direction), instead of
 forcing it to keep the same direction for the whole jump. Possibly better camera movement, or an actual player body, which still needs to be added, could help?
 
-# Ending Note
+## Ending Note
 
 This post does not currently have any screenshots nor longer explanation, these will be added tomorrow.
