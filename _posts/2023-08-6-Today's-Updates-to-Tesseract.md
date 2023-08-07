@@ -1,8 +1,7 @@
 # Today's Updates To Tesseract
 
-Today I worked on Tesseract for a few hours. Learned a lesson about game development.
-
-## The best game mechanic is not always the one that is "correct".
+Today I worked on Tesseract for a few hours. Learned a lesson about game development:
+the best game mechanic is not always the one that is "correct".
 
 Think about it. If you're running, and then you jump, you can't turn your body and change directions.
 In reality, when you jump, you keep going in the same direction, as no forces (besides gravity) are acting upon you.
